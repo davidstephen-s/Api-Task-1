@@ -1,0 +1,41 @@
+.navbar img{
+    width : 100px;
+    height : 70px;
+  }
+  .navbar-brand span{
+    color:skyblue;
+    font-size:27px ;
+  }
+  body{
+    background-color: white;
+  }
+  .text,.getInput{
+    color: black;
+  }
+  #result_division{
+    background-color: white;
+  }
+  .outputFont,.mypara{
+    color : brown;
+  }
+  main{
+    min-height: 100%;
+  }
+  .overflow{
+    height: 400px; overflow-y: scroll;
+  }
+  #result_division div:nth-child(odd){
+    background-color: gainsboro;
+  }
+  #result_division{
+    border-radius: 10px;
+  }
+  #result_division img{
+    width : 100px;
+    height : 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
